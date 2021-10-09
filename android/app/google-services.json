@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "883070171301",
+    "project_id": "voting-app-b69f2",
+    "storage_bucket": "voting-app-b69f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883070171301:android:737fda15b6643ea9e6b54c",
+        "android_client_info": {
+          "package_name": "jp.gr.javaconf.atsushitominaga.voting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883070171301-tge2049ct2mved5uecni7749s62gjpl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-NoMdEHyZ0Mv5IBP4kW1Hj06137fo6uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883070171301-tge2049ct2mved5uecni7749s62gjpl0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883070171301-m63pk6l583fnmbar55tsjlr89f4in8eh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.gr.javaconf.atsushitominaga.votingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
